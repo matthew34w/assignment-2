@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(241, 241, 235);
+    text-align: center;
+    
+}
+   
+button._button{
+    background-color:rgb(242, 192, 54);
+    
+
+}
+
+button.create_account{
+
+    background-color: rgb(155, 155, 159);
+    width: 400px;
+}
+
+button.button{
+    background-color: rgb(255, 198, 75);
+    width: 200px;
+    
+}
+
+
+
+div.Sign_in{
+    border: solid rgb(121, 120, 120);
+    
+    margin-top: 2%;
+
+    margin-left: 40%;
+     
+    margin-right: 40%;
+
+    border-radius: 10px;
+}
+
+div.create_account{
+  
+   margin-block-start:1px
+    
+}
+   
+footer{
+    border-top: solid rgb(163, 157, 157);
+    margin-right: 100px;
+    text-align: center;
+   
+    
+
+}
+
+div.forgot{
+    text-align: right;
+    margin-right: 20px;
+
+}
+
+li.foot{
+  list-style-type: none;
+  display: inline-block;
+}
+
+
+h1{
+    text-align: left;
+    margin: 20px;
+}
+
+div.a{
+    text-align: left;
+    margin-left: 20px;
+    list-style-type: none;
+}
+
